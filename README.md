@@ -92,4 +92,4 @@ Open your browser and go to `http://localhost:8000`
 
 > Upload your project report PDF to the repo and link it here
 
-[📄 View Project Report](./BTech_CSE_MINI_Project_Report_PLACEMENTOR.pdf)
+[View Project Report](./BTech_CSE_MINI_Project_Report_PLACEMENTOR_final.pdf)
