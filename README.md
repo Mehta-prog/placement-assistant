@@ -80,13 +80,6 @@ Open your browser and go to `http://localhost:8000`
 | asmita Gawande | [@Asmita-Gawande](https://github.com/Asmita-Gawande) |
 
 
----
-
-## 📸 Screenshots / Output
-
-> Add screenshots of your project here after uploading them to the repo
-
----
 
 ## 📁 Project Report
 
