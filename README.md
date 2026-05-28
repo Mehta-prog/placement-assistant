@@ -73,11 +73,12 @@ Open your browser and go to `http://localhost:8000`
 
 ## 👥 Team Members
 
-| Name | Role | GitHub |
-|---|---|---|
-|ashutosh Mehta | Backend & AI Integration | [@Mehta-prog](https://github.com/Mehta-prog) |
+| Name |  GitHub |
+|---|---|
+|ashutosh Mehta  | [@Mehta-prog](https://github.com/Mehta-prog) |
 | Diksha Garg |  [@dikshagarg515-bit](https://github.com/dikshagarg515-bit) |
-| asmita Gawande |
+| asmita Gawande | [@Asmita-Gawande](https://github.com/Asmita-Gawande) |
+
 
 ---
 
